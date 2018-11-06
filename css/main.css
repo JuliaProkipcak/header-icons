@@ -13,6 +13,6 @@ ul {
 }
 
 img {
-  display: block;
+  display: inline-block;
   width: 40px;
 }
