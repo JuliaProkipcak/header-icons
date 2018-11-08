@@ -11,6 +11,7 @@ h1 {
 
 ul {
   font-size: 1.125rem;
+  display: block;
 }
 
 img {
@@ -26,7 +27,7 @@ header {
 }
 
 h1, ul {
-  text-color: #fff;
+  color: #fff;
 }
 
 ul {
