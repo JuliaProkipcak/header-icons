@@ -6,6 +6,7 @@ html {
 
 h1 {
   font-size: 2rem;
+  padding: .5em 0;
 }
 
 ul {
@@ -15,4 +16,19 @@ ul {
 img {
   display: inline-block;
   width: 40px;
+  padding: .4rem 0;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  background-color: #d05c2e;
+}
+
+h1, ul {
+  text-color: #fff;
+}
+
+ul {
+  list-style: none;
 }
